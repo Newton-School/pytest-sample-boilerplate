@@ -1,0 +1,1 @@
+# Set 'NS_STATUS' Environment Variable to 'Newton School is Awesome'
